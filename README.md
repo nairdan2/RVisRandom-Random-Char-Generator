@@ -15,3 +15,5 @@ Get the EXE in the release section, or build it yourself!
 Have fun generating useless chars, I guess..!
 
 by Nairdan2
+
+Psst, the little code for using this release can be found in code.txt! 
