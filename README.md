@@ -10,6 +10,8 @@ So, there is no real limit other than free space on your HDD :P
 
 Also one of my first programs ever and actually this was only programmed for another program I'm working on(encryption).
 
+Get the EXE in the release section, or build it yourself!
+
 Have fun generating useless chars, I guess..!
 
 by Nairdan2
