@@ -8,7 +8,8 @@ The limit for line length and line count is 18,446,744,073,709,551,615 (unsigned
 both variables this high would generate a file 281,474,976,710,655 YobiByte big and would probably take years to generate.
 
 So, actually there is no real limit other than free space on your HDD :P
-It plays a lovely beeep when it's done and an ugly beep if you mistype the code :P
+
+Additionally it plays a lovely beeep when it's done and an ugly beep if you mistype the code :P
 
 Also one of my first programs ever and actually this was only programmed for another program I'm working on(encryption).
 
